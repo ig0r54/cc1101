@@ -64,10 +64,11 @@ How to compile
 ```
 git clone git clone https://github.com/milkv-duo/duo-examples.git
 cd duo-examples
-git clone 
+git clone https://github.com/ig0r54/cc1101
+cd cc1101
 
-
-
+source envsetup_sg2002.sh
+make
 ```
 
 
