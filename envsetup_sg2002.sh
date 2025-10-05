@@ -9,7 +9,7 @@ milkv_chip=
 milkv_arch=
 
 host_tools_git="https://github.com/milkv-duo/host-tools.git"
-host_tools=${script_dir}/../LicheeRV-Nano-Build/host-tools
+host_tools=${script_dir}/../../LicheeRV-Nano-Build/host-tools
 
 function print_info()    { printf "\e[1;92m%s\e[0m\n" "$1"; }
 function print_warning() { printf "\e[1;93m%s\e[0m\n" "$1"; }
