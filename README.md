@@ -1,4 +1,4 @@
-# cc1101
+# cc1101 transmitter Linux library
 Milk-v 256m (LicheeRV-nano) risc-v SG2002 CC1101 Linux library
 
 based on https://github.com/SpaceTeddy project
