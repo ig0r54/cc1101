@@ -8,7 +8,7 @@
 '
 '  module contains helper code from other people. Thx for that
 '-----------------------------------------------------------------------------*/
-#include "cc1100_raspi.h"
+#include "cc1100.h"
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
